@@ -1,0 +1,1 @@
+Attempt at making a LLM chat app with python and Kivy

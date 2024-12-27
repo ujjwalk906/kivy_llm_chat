@@ -1,0 +1,15 @@
+[project]
+name = "kivy_based_llm_chat_app"
+version = "0.1.0"
+description = "attempt at building a LLM chat app with pure python. using Kivy, langchain,langgraph"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "kivy>=2.3.1",
+    "langchain-community>=0.3.13",
+    "langchain>=0.3.13",
+    "langchain-openai>=0.2.14",
+    "openai>=1.58.1",
+    "python-dotenv>=1.0.1",
+    "langgraph>=0.2.60",
+]
